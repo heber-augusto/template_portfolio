@@ -21,7 +21,7 @@ Graduate in Computer Science and Control and Automation Engineering.
 * [LinkedIn](https://www.linkedin.com/in/heberscachetti/)
 
 ## Projetos:
-* Usando Aprendizado de Máquina para Prever Extravasão em Elevatórias de Esgoto * (divulgação em breve)
+* **Usando Aprendizado de Máquina para Prever Extravasão em Elevatórias de Esgoto:** (divulgação em breve)
 
 ---
 
