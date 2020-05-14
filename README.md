@@ -21,7 +21,8 @@ Graduate in Computer Science and Control and Automation Engineering.
 * [LinkedIn](https://www.linkedin.com/in/heberscachetti/)
 
 ## Projetos:
-* em contrução *
+* [NASA’s International Space Apps Challenge](https://github.com/heber-augusto/planetaagua/blob/master/data/InterfaceDadosNASA.ipynb): * Using NASA data and using Facebook's Prophet prediction library, found prediction values for level and temperature rise over the next 5 centuries. This prediction was developed in python using the free Google Colab tool;
+
 
 ---
 
