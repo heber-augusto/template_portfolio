@@ -25,7 +25,8 @@ Graduate in Computer Science and Control and Automation Engineering.
 * [Music generation using Generative Adversarial Networks (GANs)](https://github.com/heber-augusto/aws-deepcomposer-samples): This is a colab runnable version for AWS DeepComposer workshop. The notebook and files which were modified are inside Lab 2 folder. This modified version uses a google drive and copy all repository files into it using git clone command;
 * [Azure Machine Learning Foundations Course](https://github.com/heber-augusto/udacity-azure-ml-foudations): Notebooks created during Udacity Azure Machine Learning Foudations course (good to compare the work with and without Azure M.L. Studio);
 * [Introduction to Machine Learning from Udacity](https://github.com/heber-augusto/udacity-intro-to-ml): A python3 and docker version with projects developed from Introdution to Machine Learning Course from Udacity;
-* [Some useful codes used in my data science projects](https://github.com/heber-augusto/datascience-colab-templates): Some colab notebooks containing templates of code to help with datascience projects.
+* [Some useful codes used in my data science projects](https://github.com/heber-augusto/datascience-colab-templates): Some colab notebooks containing templates of code to help with datascience projects;
+* [end-to-end weather forecast project](https://github.com/heber-augusto/weather-forecast): The goal from this project is to evaluate how temperature and humidity sensors from a data center are good for predicting rain precipitation.
 
 ---
 
