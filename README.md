@@ -27,6 +27,7 @@ Graduate in Computer Science and Control and Automation Engineering.
 * [Introduction to Machine Learning from Udacity](https://github.com/heber-augusto/udacity-intro-to-ml): A python3 and docker version with projects developed from Introdution to Machine Learning Course from Udacity;
 * [Some useful codes used in my data science projects](https://github.com/heber-augusto/datascience-colab-templates): Some colab notebooks containing templates of code to help with datascience projects;
 * [end-to-end weather forecast project](https://github.com/heber-augusto/weather-forecast): The goal from this project is to evaluate how temperature and humidity sensors from a data center are good for predicting rain precipitation;
+* [notebooks from my master degree](https://github.com/heber-augusto/master-degree-jupyter-notebooks): Jupyter notebooks with concepts and techniques developed during the master´s work "Using machine learning to predict sewage overflow in lift stations". This code is receiving some additional documentation to help undestanding;
 * Projects developed during Nanodegree "Machine Learning Engineer with Microsoft Azure": 
   * [Optimizing an ML Pipeline in Azure](https://github.com/heber-augusto/Nanodegree_Azure_ML_Engineer_OptimizingPipeline);
   * [Operationalizing Machine Learning in Azure](https://github.com/heber-augusto/Nanodegree_Azure_ML_Engineer_Operationalizing).
