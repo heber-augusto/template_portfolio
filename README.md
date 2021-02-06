@@ -30,7 +30,8 @@ Graduate in Computer Science and Control and Automation Engineering.
 * [notebooks from my master degree](https://github.com/heber-augusto/master-degree-jupyter-notebooks): Jupyter notebooks with concepts and techniques developed during the master´s work "Using machine learning to predict sewage overflow in lift stations". This code is receiving some additional documentation to help undestanding;
 * Projects developed during Nanodegree "Machine Learning Engineer with Microsoft Azure": 
   * [Optimizing an ML Pipeline in Azure](https://github.com/heber-augusto/Nanodegree_Azure_ML_Engineer_OptimizingPipeline);
-  * [Operationalizing Machine Learning in Azure](https://github.com/heber-augusto/Nanodegree_Azure_ML_Engineer_Operationalizing).
+  * [Operationalizing Machine Learning in Azure](https://github.com/heber-augusto/Nanodegree_Azure_ML_Engineer_Operationalizing);
+  * [Credit Card Fraud Detection using Machine Learning in Azure](https://github.com/heber-augusto/Nanodegree_Azure_ML_Engineer_CapstoneProject).
 
 ---
 
