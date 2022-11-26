@@ -34,7 +34,8 @@ Graduate in Computer Science and Control and Automation Engineering.
   * [Credit Card Fraud Detection using Machine Learning in Azure](https://github.com/heber-augusto/Nanodegree_Azure_ML_Engineer_CapstoneProject).
 * Monitor Rosa (conjunto de ferramentas, softwares e outros artefatos cujo principal objetivo é melhorar o cenário de diagnósticos de câncer de mama no Brasil):
   * [Automação da coleta de arquivos do SUS](https://github.com/heber-augusto/devops-pysus-get-files);
-  * [Notebooks contendo análises e indicadores criados a partir dos dados do SUS](https://github.com/heber-augusto/sus-kpis-analysis).
+  * [Notebooks contendo análises e indicadores criados a partir dos dados do SUS](https://github.com/heber-augusto/sus-kpis-analysis);
+  * [Aplicação streamlit para visualização dos dados](https://github.com/heber-augusto/streamlit-monitor-rosa).
 ---
 
 
