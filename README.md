@@ -36,7 +36,7 @@ Graduate in Computer Science and Control and Automation Engineering.
   * [Automação da coleta de arquivos do SUS](https://github.com/heber-augusto/devops-pysus-get-files);
   * [Notebooks contendo análises e indicadores criados a partir dos dados do SUS](https://github.com/heber-augusto/sus-kpis-analysis);
   * [Aplicação streamlit para visualização dos dados](https://github.com/heber-augusto/streamlit-monitor-rosa).
-* [Neural Miners - Detecção de cancer de mama](https://github.com/heber-augusto/neural-miners-deteccao-cancer-de-mama): projeto final do curso de Mineração de Dados Complexos.
+* [Neural Miners - Detecção de cancer de mama](https://github.com/heber-augusto/neural-miners-cancer-de-mama): projeto final do curso de Mineração de Dados Complexos.
 ---
 
 
